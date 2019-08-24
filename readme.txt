@@ -10,3 +10,5 @@ create a new branc named jm.
 no-ff on branch jm.
 
 yes!bug fixed!
+
+before bug working...
