@@ -8,3 +8,5 @@ fast-forword test.
 create a new branc named jm.
 
 no-ff on branch jm.
+
+yes!bug fixed!
