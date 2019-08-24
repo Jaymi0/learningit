@@ -6,3 +6,5 @@ create a new branch is quick and simple.
 fast-forword test.
 
 create a new branc named jm.
+
+no-ff on branch jm.
